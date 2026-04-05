@@ -633,7 +633,7 @@
     <style>
       @page { margin: 1.5cm 1.5cm 2cm 1.5cm; }
       body { font-family: 'BPG Nino Mtavruli', sans-serif; font-size: 12pt; line-height: 1.2; margin: 0; }
-      .header { text-align: center; margin-top: -1cm; padding-bottom: 0.5rem; border-bottom: 2px solid #000; }
+      .header { text-align: center; margin-top: 0.3cm; padding-bottom: 0.5rem; border-bottom: 2px solid #000; }
       .logo { width: 150px; height: 100px; object-fit: contain; margin-bottom: 0.3rem; }
       .clinic-name { font-size: 12pt; font-weight: bold; margin: 0.2rem 0; }
       .print-field { display: flex; gap: 1rem; margin: 0.8rem 0; font-size: 12pt; }
